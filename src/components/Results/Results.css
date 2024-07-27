@@ -1,0 +1,10 @@
+.writing-mode-vertical {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    letter-spacing: 0.5em;
+    text-align: center;
+}
+
+.grad1 {
+    background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+}
